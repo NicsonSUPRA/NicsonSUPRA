@@ -17,21 +17,6 @@
 
 <br/>  
 
-
-##  
-<table><tr><td valign="top" width="50%">
-
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://media.giphy.com/media/lZVtxgbiyON8Y/giphy.gif?cid=ecf05e47kbf6fc0l6vds9mlsmo5d8h0vb274e1yuqc55du53&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="center" height="" width="" />
-</div>  
-
-
-</td></tr></table>  
-
 <br/>  
 
 
